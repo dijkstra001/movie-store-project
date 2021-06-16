@@ -17,3 +17,9 @@ cliente recebe um número de associado.
 
 Finalmente o sistema deve permitir a consulta a empréstimos de DVDs, com informações de qual cliente alugou o quê,
 datas de empréstimo e devolução, valor pago ou a pagar, atrasos, etc.
+
+### Diagrama Entidade-Relacionamento:
+
+![alt text](https://github.com/dijkstra001/movie-store-project/edit/main/ER-diagram.png)
+
+<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
