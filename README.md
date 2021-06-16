@@ -20,6 +20,18 @@ datas de empréstimo e devolução, valor pago ou a pagar, atrasos, etc.
 
 ### Diagrama Entidade-Relacionamento:
 
-![alt text](https://github.com/dijkstra001/movie-store-project/edit/main/ER-diagram.png)
+![alt text](https://github.com/dijkstra001/movie-store-project/blob/main/ER-diagram.png?raw=true)
+
+### Scripts SQL's (para o SGBD Postgres):
+
+#### 1 - CRIAÇÃO DAS TABELAS:
+
+#### 2 - INSERÇÃO DE DADOS:
+
+#### 3 - CRIAÇÃO DE VISUALIZAÇÕES:
+
+#### 4 - VALIDAÇÃO DA REGRA DE NEGÓCIO (Consultar empréstimos, consultar estrelas, consultar filmes, consultar clientes por estado, cidade, cep etc, calcular total de empréstimos, total de juros e descontos e o prazo médio de atraso e entregas):
 
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
+
+
