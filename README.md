@@ -24,13 +24,13 @@ datas de empréstimo e devolução, valor pago ou a pagar, atrasos, etc.
 
 ### Scripts SQL's (para o SGBD Postgres):
 
-#### 1 - CRIAÇÃO DAS TABELAS:
+##### 1 - [CRIAÇÃO DAS TABELAS](https://github.com/dijkstra001/movie-store-project/blob/main/create-table.sql)
 
-#### 2 - INSERÇÃO DE DADOS:
+##### 2 - [INSERÇÃO DE DADOS](https://github.com/dijkstra001/movie-store-project/blob/main/insert-data.sql)
 
-#### 3 - CRIAÇÃO DE VISUALIZAÇÕES:
+##### 3 - [CRIAÇÃO DE VISUALIZAÇÕES](https://github.com/dijkstra001/movie-store-project/blob/main/create-views.sql)
 
-#### 4 - VALIDAÇÃO DA REGRA DE NEGÓCIO (Consultar empréstimos, consultar estrelas, consultar filmes, consultar clientes por estado, cidade, cep etc, calcular total de empréstimos, total de juros e descontos e o prazo médio de atraso e entregas):
+##### 4 - [VALIDAÇÃO DA REGRA DE NEGÓCIO](https://github.com/dijkstra001/movie-store-project/blob/main/business-rules-validation.sql)
 
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
 
