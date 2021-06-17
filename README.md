@@ -22,7 +22,7 @@ datas de empréstimo e devolução, valor pago ou a pagar, atrasos, etc.
 
 ![alt text](https://github.com/dijkstra001/movie-store-project/blob/main/ER-diagram.png?raw=true)
 
-### 🔷 Scripts SQL's (para o SGBD Postgres):
+### 🔷 Scripts SQL's (para o SGBD Oracle):
 
 [CRIAÇÃO DAS TABELAS](https://github.com/dijkstra001/movie-store-project/blob/main/create-tables.sql)
 
@@ -32,6 +32,6 @@ datas de empréstimo e devolução, valor pago ou a pagar, atrasos, etc.
 
 [VALIDAÇÃO DA REGRA DE NEGÓCIO](https://github.com/dijkstra001/movie-store-project/blob/main/business-rules-validation.sql)
 
-<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 
 
