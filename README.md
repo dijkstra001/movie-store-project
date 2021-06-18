@@ -20,7 +20,7 @@ datas de empréstimo e devolução, valor pago ou a pagar, atrasos, etc.
 
 ### 🔷 Diagrama Entidade-Relacionamento:
 
-![alt text](https://github.com/dijkstra001/movie-store-project/blob/main/ER-diagram.png?raw=true)
+![alt text](https://github.com/dijkstra001/movie-store-project/blob/main/diagram-updated.png?raw=true)
 
 ### 🔷 Scripts SQL's (para o SGBD Oracle):
 
