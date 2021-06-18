@@ -1,6 +1,6 @@
-# Projeto: Locadora de Filmes 📺
+# 🖥️ Projeto: Locadora de Filmes
 
-### Desafio:
+### 🔷 Desafio:
 
 Uma pequena locadora de vídeos possui ao redor de 2000 DVDs, cujo empréstimo deve ser controlado. Cada DVD
 possui um número de identificação e contém um único filme. Cada filme recebe um identificador próprio, e sabe-se
@@ -18,20 +18,20 @@ cliente recebe um número de associado.
 Finalmente o sistema deve permitir a consulta a empréstimos de DVDs, com informações de qual cliente alugou o quê,
 datas de empréstimo e devolução, valor pago ou a pagar, atrasos, etc.
 
-### Diagrama Entidade-Relacionamento:
+### 🔷 Diagrama Entidade-Relacionamento:
 
 ![alt text](https://github.com/dijkstra001/movie-store-project/blob/main/ER-diagram.png?raw=true)
 
-### Scripts SQL's (para o SGBD Postgres):
+### 🔷 Scripts SQL's (para o SGBD Oracle):
 
-#### 1 - CRIAÇÃO DAS TABELAS:
+[CRIAÇÃO DAS TABELAS](https://github.com/dijkstra001/movie-store-project/blob/main/create-tables.sql)
 
-#### 2 - INSERÇÃO DE DADOS:
+[INSERÇÃO DE DADOS](https://github.com/dijkstra001/movie-store-project/blob/main/insert-data.sql)
 
-#### 3 - CRIAÇÃO DE VISUALIZAÇÕES:
+[CRIAÇÃO DE VISUALIZAÇÕES](https://github.com/dijkstra001/movie-store-project/blob/main/create-views.sql)
 
-#### 4 - VALIDAÇÃO DA REGRA DE NEGÓCIO (Consultar empréstimos, consultar estrelas, consultar filmes, consultar clientes por estado, cidade, cep etc, calcular total de empréstimos, total de juros e descontos e o prazo médio de atraso e entregas):
+[VALIDAÇÃO DA REGRA DE NEGÓCIO](https://github.com/dijkstra001/movie-store-project/blob/main/business-rules-validation.sql)
 
-<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 
 
